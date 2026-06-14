@@ -1,2 +1,2 @@
 # apex-privacy-policy
-Privacy Policy for APEX Fitness App
+Privacy Policy for APAPEX PROJECT App
